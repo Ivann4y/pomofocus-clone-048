@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pomofocus-clone-048/static/css/main.4dbe9040.css",
+    "main.js": "/pomofocus-clone-048/static/js/main.ba6b6c6d.js",
+    "index.html": "/pomofocus-clone-048/index.html",
+    "main.4dbe9040.css.map": "/pomofocus-clone-048/static/css/main.4dbe9040.css.map",
+    "main.ba6b6c6d.js.map": "/pomofocus-clone-048/static/js/main.ba6b6c6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dbe9040.css",
+    "static/js/main.ba6b6c6d.js"
+  ]
+}
